@@ -4,11 +4,11 @@
  
 # 环境依赖
 
-*Window X64平台
+* Window X64平台
 
-*Visual Studio 2022 (V143)
+* Visual Studio 2022 (V143)
 
-*ISO C++ 17 标准
+* ISO C++ 17 标准
 
  
 # 目录结构描述
